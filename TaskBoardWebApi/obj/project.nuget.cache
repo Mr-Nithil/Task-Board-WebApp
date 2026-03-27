@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "spkmY7w07eo=",
+  "success": true,
+  "projectFilePath": "/Users/nithilsheshan/Desktop/My Stuff/dot NET Dev/TaskBoardWebApi/TaskBoardWebApi/TaskBoardWebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/nithilsheshan/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/nithilsheshan/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
